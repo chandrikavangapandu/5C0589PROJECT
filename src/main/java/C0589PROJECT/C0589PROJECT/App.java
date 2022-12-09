@@ -41,7 +41,7 @@ public class App
 
 	class thread 
 	{
-		public static void main(String args[])
+		public static void main(String[] args)
 		{
 			App obj = new App();
 			Mythread1 th1 = new Mythread1(obj);
